@@ -1,0 +1,16 @@
+emp_id,name,department,salary,joining_date,email
+EMP001,AHMED KHAN,engineering,85000,2021-03-15,ahmed.khan@company.com
+EMP002,fatima rahman,sales,65000,2022-01-10,fatima.rahman@company.com
+EMP003,Karim Hassan,MARKETING,58000,2020-07-22,karim.hassan@company.com
+EMP004,  Nadia Ali  ,hr,52000,2021-11-05,nadia.ali@company.com
+EMP005,Omar Ahmed,ENGINEERING,92000,2019-05-18,omar.ahmed@company.com
+EMP006,Sara Khan,sales,67000,2022-03-12,sara.khan@company.com
+EMP007,Bilal Mahmud,engineering,78000,2021-08-20,bilal.mahmud@company.com
+EMP008,Laila Hassan,HR,54000,2020-12-01,laila.hassan@company.com
+EMP009,Tariq Rahman,marketing,61000,2022-06-15,tariq.rahman@company.com
+EMP010,Amina Khan,SALES,69000,2021-04-10,amina.khan@company.com
+EMP011,Hassan Ali,engineering,88000,2020-02-28,hassan.ali@company.com
+EMP012,Zara Ahmed,hr,56000,2021-09-14,zara.ahmed@company.com
+EMP013,Ibrahim Khan,MARKETING,63000,2022-01-20,ibrahim.khan@company.com
+EMP014,Maryam Hassan,sales,71000,2020-10-05,maryam.hassan@company.com
+EMP015,Ali Rahman,ENGINEERING,95000,2019-11-12,ali.rahman@company.com
