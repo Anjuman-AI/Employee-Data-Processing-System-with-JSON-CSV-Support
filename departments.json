@@ -1,0 +1,26 @@
+{
+    "ENGINEERING": {
+        "name": "Engineering",
+        "head": "CTO",
+        "budget": 5000000,
+        "location": "Building A"
+    },
+    "SALES": {
+        "name": "Sales",
+        "head": "Sales Director",
+        "budget": 3000000,
+        "location": "Building B"
+    },
+    "MARKETING": {
+        "name": "Marketing",
+        "head": "CMO",
+        "budget": 2000000,
+        "location": "Building B"
+    },
+    "HR": {
+        "name": "Human Resources",
+        "head": "HR Director",
+        "budget": 1500000,
+        "location": "Building C"
+    }
+}
